@@ -1,0 +1,12 @@
+{
+  "ESPGyro_esp32_extensions": {
+    "name": "ESP32擴充模組",
+    "description": "Set angle to stepper motor",
+    "author": "YP & Mason",
+    "category": "Device Control",
+    "version": "1.0.0",
+    "icon": "/static/uln2003.png",
+    "color": "#0271D9",
+    "github": "https://github.com/ESPGyro/esp32_extensions"
+  },
+}
